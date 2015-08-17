@@ -1,2 +1,4 @@
 # demo_git
-Une demi de Git
+==========
+
+Une demo de Git qui se passe bien
